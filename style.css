@@ -1,0 +1,106 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: Lime;
+    border: solid 5px MidnightBlue;
+    border-radius: 5px;
+}
+
+h1{
+   text-align: center;
+   background-color: Yellow;
+   border: solid 5px Gold;
+    border-radius: 5px;
+    color: blue;
+}
+
+footer{
+    background-color: burlywood;
+    color: Indigo;
+}
+
+.yes{
+    border: 5px solid RoyalBlue;
+    border-radius: 5px;
+}
+
+.no{
+    border: 5px solid RoyalBlue;
+    border-radius: 5px;
+}
+
+.do{
+    border: 5px solid RoyalBlue;
+    border-radius: 5px;
+}
+
+.yo{
+    border: 5px solid RoyalBlue;
+    border-radius: 5px;
+}
+
+footer{
+    border: 5px solid RoyalBlue ;
+    border-radius: 5px;
+    background-color: Lime;
+}
+
+.q{
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    background-color: Aqua;
+}
+
+.w{
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    background-color: gold;
+}
+
+.e{
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    background-color: lime;
+}
+
+.r{
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    background-color: Purple;
+}
+
+.z{
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+}
+
+.x{
+     border: 5px solid aqua;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+}
+
+h2{
+    color: blue;
+    font-size: 30px;
+}
+
+.c{
+    font-size: 20px;
+}
